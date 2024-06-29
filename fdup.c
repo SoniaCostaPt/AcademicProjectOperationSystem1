@@ -1,5 +1,5 @@
 /* 
- * UC:21111 - Sistemas Operativos
+ * UC:21111 - Sistemas Operativos - Universidade Aberta
  * e-fólio A 2023-24 (fdup.c)
  *
  * Aluno: 1900249 - Sónia Costa
